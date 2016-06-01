@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["kristaps.kulikovskis@makit.lv"]
 
   spec.summary       = %q{Gem to handle floats that represent time e.g. 1.5 hours = 1 hour 50 minutes }
-  spec.description   = %q{TODO: Write a detailed description}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{A more detailed description will follow}
+  spec.homepage      = "https://github.com/LeKristapino/time_in_float"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
